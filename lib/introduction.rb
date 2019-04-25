@@ -1,3 +1,3 @@
-def method1(arg1)
+def introduction(arg1)
   puts "my argument is #{arg1}""
 end
